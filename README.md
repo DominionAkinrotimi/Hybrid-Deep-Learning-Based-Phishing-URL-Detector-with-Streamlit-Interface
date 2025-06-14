@@ -46,18 +46,19 @@ streamlit run app.py
 
 ## 📁 Folder Structure
 │
-├── app.py # Streamlit app
-├── requirements.txt # Project dependencies
-├── README.md # You're here
-└── deploy_artifacts/ # Pretrained models and encoders
-├── cnn_model.h5
-├── cnn_feature_extractor.h5
-├── lstm_model.h5
-├── fcnn_meta_learner.h5
-├── xgboost_model.json
-├── scaler.pkl
-├── ordinal_encoder.pkl
-└── selected_features.json
+├── app.py                  # Streamlit app
+├── requirements.txt        # Project dependencies
+├── README.md               # You're here
+└── deploy_artifacts/       # Pretrained models and encoders
+    ├── cnn_model.h5
+    ├── cnn_feature_extractor.h5
+    ├── lstm_model.h5
+    ├── fcnn_meta_learner.h5
+    ├── xgboost_model.json
+    ├── scaler.pkl
+    ├── ordinal_encoder.pkl
+    └── selected_features.json
+
 
 ## Requirements
 Python 3.9+
