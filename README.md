@@ -45,6 +45,7 @@ streamlit run app.py
 ```
 
 ## 📁 Folder Structure
+
 │
 ├── app.py                  # Streamlit app
 ├── requirements.txt        # Project dependencies
@@ -58,6 +59,7 @@ streamlit run app.py
     ├── scaler.pkl
     ├── ordinal_encoder.pkl
     └── selected_features.json
+
 
 
 ## Requirements
