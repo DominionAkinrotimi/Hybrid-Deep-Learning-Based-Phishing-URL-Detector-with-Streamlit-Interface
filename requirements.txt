@@ -2,6 +2,6 @@ streamlit>=1.45.1
 pandas>=2.3.0
 numpy>=2.3.0
 scikit-learn>=1.7.0
-tensorflow>=2.16.1  # Try this version
+tensorflow>=2.19.0rc0  # Pre-release
 xgboost
 tldextract
