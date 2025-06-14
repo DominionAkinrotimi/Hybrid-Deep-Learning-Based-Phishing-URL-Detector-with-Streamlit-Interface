@@ -1,4 +1,4 @@
-python_version==3.8.10  # Ensures Python 3.11.x or lower
+python
 streamlit
 pandas
 numpy
